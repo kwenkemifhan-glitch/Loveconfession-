@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gen Z Gurl's Website</title>
+    <style>
+        body {
+            background-color: #ffe6f2;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 40px;
+        }
+        h1 {
+            color: #ff4da6;
+        }
+        p {
+            font-size: 18px;
+        }
+        .box {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            width: 300px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        img {
+            width: 150px;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="box">
+        <h1>Hi, I'm Gen Z gurl 💅</h1>
+        <img src="https://i.imgur.com/8Km9tLL.png">
+        <p>Welcome to my website!</p>
+        <p>I like anime, vibes, and being iconic.</p>
+        <p>This is my first site ever 😌</p>
+    </div>
+
+</body>
+</html>
